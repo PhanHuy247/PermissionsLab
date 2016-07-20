@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Android\\bai tap\\Lap04\\PermissionsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loader_activity.xml",
+        "source": "C:\\Users\\HP\\Downloads\\Android\\bai tap\\Lap04\\PermissionsLab\\app\\src\\main\\res\\layout\\activity_loader_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Android\\bai tap\\Lap04\\PermissionsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bookmarks_activity.xml",
+        "source": "C:\\Users\\HP\\Downloads\\Android\\bai tap\\Lap04\\PermissionsLab\\app\\src\\main\\res\\layout\\bookmarks_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\Android\\bai tap\\Lap04\\PermissionsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\go_to_dangerous_activity.xml",
+        "source": "C:\\Users\\HP\\Downloads\\Android\\bai tap\\Lap04\\PermissionsLab\\app\\src\\main\\res\\layout\\go_to_dangerous_activity.xml"
+    }
+]
