@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\HP\Downloads\Android\bai tap\Lap04\PermissionsLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e35aaf0a5ca9b7235597b8fc0e5592a0c5ebae03">
+        <dex dex="C:\Users\HP\Downloads\Android\bai tap\Lap04\PermissionsLab\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3239994f0ceb2c9012476808e217b8493e7f5ad9.jar" />
+    </item>
+
+</items>

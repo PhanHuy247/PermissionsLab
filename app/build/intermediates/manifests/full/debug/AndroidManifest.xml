@@ -8,6 +8,9 @@
         android:minSdkVersion="8"
         android:targetSdkVersion="18" />
 
+    <uses-permission android:name="course.labs.permissions.DANGEROUS_ACTIVITY_PERM" />
+    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+
     <!-- TODO - add uses-permission elements -->
     <application
         android:allowBackup="true"
