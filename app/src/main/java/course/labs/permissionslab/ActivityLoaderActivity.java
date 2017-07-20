@@ -27,6 +27,10 @@ public class ActivityLoaderActivity extends Activity {
 			}
 		});
 	}
+	
+	
+	
+	
 
 	private void startBookMarksActivity() {
 		
